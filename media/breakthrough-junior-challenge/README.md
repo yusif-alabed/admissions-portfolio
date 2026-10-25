@@ -1,5 +1,7 @@
 # Breakthrough Junior Challenge
 
-This directory is reserved for Yusif Alabed's Junior Breakthrough Challenge submission and supporting material.
+## Who leads a swarm of robots?
 
-The source master video is larger than GitHub's regular repository file limit. A web-ready version or hosted viewing link will be added here so that the submission can be viewed directly without downloading a large source file.
+[Watch the 2026 Breakthrough Junior Challenge submission on YouTube](https://www.youtube.com/watch?v=wYqk63I7bjA)
+
+The video is hosted on YouTube so it can be watched directly at full quality. The original master file is larger than GitHub's normal repository-file limit.
