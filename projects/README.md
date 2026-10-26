@@ -7,5 +7,6 @@ Current demonstrable material is linked from the research and academic-work sect
 ## Current projects
 
 - [Swarm robotics CAD prototype](swarm-robotics/)
+- [Project Strata — 4x4 in Schools](project-strata-4x4/)
 
 Additional projects will be added only with their code, design files, photos, or other evidence—not merely a claim.
